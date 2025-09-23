@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3638978728
+CRC: 572222797
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 079edad86e01d49bec3c336608cf9132
+    Hash: adf0980c7c8fc835cb3d6169ba056cef
   TypeTreeHash:
     serializedVersion: 2
-    Hash: f39e799d905255b1ec3510e073d8ae98
+    Hash: 98f789b792261ecccb2cedce16093c66
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 079edad86e01d49bec3c336608cf9132
+    Hash: adf0980c7c8fc835cb3d6169ba056cef
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -26,8 +26,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 64
   Script: {instanceID: 0}
-- Class: 65
-  Script: {instanceID: 0}
 - Class: 74
   Script: {instanceID: 0}
 - Class: 90
@@ -39,7 +37,6 @@ Assets:
 - Assets/Package/FBX/2.FBX
 - Assets/Package/FBX/8.FBX
 - Assets/Package/FBX/1.FBX
-- Assets/Prefab/Cube.prefab
 - Assets/Package/FBX/9.FBX
 - Assets/Package/FBX/10.FBX
 - Assets/Package/FBX/3.FBX
@@ -48,4 +45,4 @@ Assets:
 - Assets/Package/FBX/5.FBX
 - Assets/Package/FBX/4.FBX
 Dependencies:
-- "E:/UnityProjects/AB\u5305/AssetBundles/WebGL/shared"
+- E:/UnityProjects/AssetBundle/AssetBundles/WebGL/shared

@@ -1,19 +1,14 @@
 ManifestFileVersion: 0
-CRC: 3575989376
+CRC: 2484977389
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: camera
-      Dependencies: {}
-    Info_1:
       Name: model
       Dependencies:
         Dependency_0: shared
-    Info_2:
+    Info_1:
       Name: shared
       Dependencies: {}
-    Info_3:
-      Name: prefab
-      Dependencies:
-        Dependency_0: model
-        Dependency_1: shared
+    Info_2:
+      Name: camera
+      Dependencies: {}
