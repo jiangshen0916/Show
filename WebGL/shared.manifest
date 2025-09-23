@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1873504714
+CRC: 4025403758
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4b1997ac03274d822b304bfe21666c2e
+    Hash: 3d259ecda633b6af59ecbda25a24d140
   TypeTreeHash:
     serializedVersion: 2
-    Hash: b30fce1a9ad74efb72be6c308c56e365
+    Hash: 88f4053155d2c8e8bdeb16c00867b658
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 4b1997ac03274d822b304bfe21666c2e
+    Hash: 3d259ecda633b6af59ecbda25a24d140
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -17,6 +17,8 @@ ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
 - Class: 48
+  Script: {instanceID: 0}
+- Class: 89
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
@@ -33,9 +35,10 @@ Assets:
 - Assets/mod/Materials/SR-Lane-white.mat
 - Assets/mod/Materials/3#_M3021_CF_V1.mat
 - Assets/mod/Materials/3#_D7004_cf_D_V1.mat
-- Assets/mod/Materials/3#_M1011_CF_V2.mat
+- Assets/Package/Day.cubemap
 - Assets/mod/Materials/3#_D3001_CF_D_V1.mat
 - Assets/mod/Materials/3#_M3061_CF_V1.mat
+- Assets/mod/Materials/3#_M1011_CF_V2.mat
 - Assets/Prefab/1.mat
 - "Assets/mod/\u661F\u56ED\u4E3B\u697C.fbm/3#_D7005_cf_D_V1.jpg"
 - Assets/mod/Materials/3#_D7015_cf_D_V1.mat
@@ -59,8 +62,11 @@ Assets:
 - "Assets/mod/\u5149\u4F0F\u677F.fbm/3#_D9031_CF_D_V1.png"
 - Assets/mod/Materials/3#_T6001_CF_V1.mat
 - Assets/mod/Materials/3#_M9001_CF_V2.mat
+- Assets/Package/Texture/Classical Building Light.tif
 - Assets/mod/Materials/3#_M3001_CF_V1.mat
+- Assets/Package/Materials/Classical Building.mat
 - "Assets/mod/\u5730\u56FE01.fbm/3#_D7002_CF_D_V200.png"
+- Assets/Package/Texture/Classical Building.tif
 - "Assets/mod/\u661F\u56ED\u4E3B\u697C.fbm/3#_D5001_CF_D_V20.jpg"
 - Assets/mod/Materials/3#_M5001_CF_V2.mat
 - "Assets/mod/\u661F\u56ED\u5730\u976201.fbm/3#_D7004_cf_D_V1.jpg"
@@ -68,6 +74,7 @@ Assets:
 - "Assets/mod/\u81EA\u53D1\u5149\u73BB\u7483.fbm/3#_D5001_CF_D_V888.jpg"
 - Assets/mod/Materials/3#_D7001_CF_D_V1.mat
 - Assets/mod/Materials/3#_M1011_CF_V1.mat
+- Assets/Package/Texture/Classical Building Normal.tif
 - Assets/mod/Materials/3#_D6021_CF_D_V2.mat
 - "Assets/mod/\u661F\u56ED\u4E3B\u697C.fbm/3#_D6021_CF_D_V2.jpg"
 - Assets/mod/Materials/3#_M8002_CF_V2.mat
