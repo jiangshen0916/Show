@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3008249403
+CRC: 2723267432
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e8072c3fb521fb8a97bb02828f255971
+    Hash: 0b52324451770693a3bf5730c133449f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 16c8aa2ea7eeb9c3aebb6cebe2273284
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: e8072c3fb521fb8a97bb02828f255971
+    Hash: 0b52324451770693a3bf5730c133449f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -30,8 +30,6 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- "Assets/mod/\u4E3B\u697C.FBX"
 - Assets/Prefab/Model/aa.prefab
 - Assets/Prefab/1.mat
-Dependencies:
-- "E:/UnityProjects/AB\u5305/AssetBundles/WebGL/model"
+Dependencies: []
