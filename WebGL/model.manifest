@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1425939746
+CRC: 4237558847
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 476c27c2385aa7c45cb99617bc0332d0
+    Hash: e3da1b8f2d67374fb46e831e3f7de927
   TypeTreeHash:
     serializedVersion: 2
     Hash: 98f789b792261ecccb2cedce16093c66
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 476c27c2385aa7c45cb99617bc0332d0
+    Hash: e3da1b8f2d67374fb46e831e3f7de927
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -34,7 +34,6 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- "Assets/mod/\u4E3B\u697C.FBX"
 - Assets/Package/FBX/2.FBX
 - Assets/Package/FBX/8.FBX
 - Assets/Package/FBX/1.FBX
