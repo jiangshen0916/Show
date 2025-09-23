@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3702718674
+CRC: 373383435
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0537960d91ae86de56df83a75be5f92e
+    Hash: f987408c932f399f39c2579185004013
   TypeTreeHash:
     serializedVersion: 2
-    Hash: d7034358cb2d82cffbcf1b64e654ac48
+    Hash: 0cc6eb13cbd2dd295c74642973fa53ca
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 0537960d91ae86de56df83a75be5f92e
+    Hash: f987408c932f399f39c2579185004013
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -21,10 +21,31 @@ ClassTypes:
 - Class: 81
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: b7d8880817dd54944bcfb98d59af71ad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 97c23e3b12dc18c42a140437e53d3951, type: 3}
 - Class: 115
   Script: {instanceID: 0}
-SerializeReferenceClassIdentifiers: []
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.BoolParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ClampedFloatParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.HDRACESPresetParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.NeutralRangeReductionModeParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.TemporalAA/Settings
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.TonemappingModeParameter
 Assets:
 - Assets/Prefab/Model/bb.prefab
+- Assets/Scenes/SampleScene/bb Profile.asset
 Dependencies: []
