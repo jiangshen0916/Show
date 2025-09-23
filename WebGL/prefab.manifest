@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2723267432
+CRC: 3133487119
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0b52324451770693a3bf5730c133449f
+    Hash: 4e6c702c7e250b800287a300fa6e8a21
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 16c8aa2ea7eeb9c3aebb6cebe2273284
+    Hash: 48f9e47804cc6149eb45c38c55466448
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 0b52324451770693a3bf5730c133449f
+    Hash: 4e6c702c7e250b800287a300fa6e8a21
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -24,12 +24,12 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 43
   Script: {instanceID: 0}
-- Class: 48
-  Script: {instanceID: 0}
 - Class: 65
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Prefab/Model/aa.prefab
-- Assets/Prefab/1.mat
-Dependencies: []
+- "Assets/Prefab/Model/\u4E3B\u697C.prefab"
+Dependencies:
+- "E:/UnityProjects/AB\u5305/AssetBundles/WebGL/model"
+- "E:/UnityProjects/AB\u5305/AssetBundles/WebGL/shared"
