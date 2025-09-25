@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 4053423466
+CRC: 547832787
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -12,3 +12,7 @@ AssetBundleManifest:
     Info_2:
       Name: camera
       Dependencies: {}
+    Info_3:
+      Name: plane
+      Dependencies:
+        Dependency_0: shared
