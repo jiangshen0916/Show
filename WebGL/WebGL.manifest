@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2087554634
+CRC: 3553959832
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -15,4 +15,5 @@ AssetBundleManifest:
     Info_3:
       Name: plane
       Dependencies:
-        Dependency_0: shared
+        Dependency_0: model
+        Dependency_1: shared
