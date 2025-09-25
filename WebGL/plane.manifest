@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2194756839
+CRC: 4211115579
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cde55ecfd7ec50669c2e3c9b1e9ccb8e
+    Hash: 76a5c6d0fbdf1c7adb606f74ac2cbf84
   TypeTreeHash:
     serializedVersion: 2
-    Hash: d76d0903a3dfcdecc411f80894a679a8
+    Hash: 98f789b792261ecccb2cedce16093c66
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: cde55ecfd7ec50669c2e3c9b1e9ccb8e
+    Hash: 76a5c6d0fbdf1c7adb606f74ac2cbf84
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -26,8 +26,15 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 64
   Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Package/FBX/grass plane.FBX
 - "Assets/Prefab/\u5730\u9762.prefab"
 Dependencies:
 - E:/UnityProjects/AssetBundle/AssetBundles/WebGL/shared
